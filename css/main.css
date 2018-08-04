@@ -1,0 +1,32 @@
+
+
+.container{
+	background-color:rgba(0,0,0,0.40);
+	z-index:9;
+	position: fixed;
+
+}
+h1{
+	padding:0 auto;
+	margin:0 auto;
+}
+#blue{
+	color:#3ec1d5;
+}
+.nav-bar{
+	float:right;
+}
+ul li{
+	display:inline-block;
+  font-size:20px;
+  margin-left:30px;
+}
+.brand{
+  margin-left:180px;
+  color:#fff;
+ }
+
+.one{
+	width:1px;
+}
+
